@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Classes genéricas.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex1\\Classes genéricas.csproj",
       "projectName": "Classes genéricas",
-      "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Classes genéricas.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex1\\Classes genéricas.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

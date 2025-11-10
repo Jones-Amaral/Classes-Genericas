@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\bin\Debug\net6.0\Classes genéricas.exe
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\bin\Debug\net6.0\Classes genéricas.deps.json
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\bin\Debug\net6.0\Classes genéricas.runtimeconfig.json
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\bin\Debug\net6.0\Classes genéricas.dll
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\bin\Debug\net6.0\Classes genéricas.pdb
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.AssemblyInfo.cs
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.dll
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\refint\Classes genéricas.dll
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.pdb
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\Classes genéricas.genruntimeconfig.cache
+C:\Users\user\Desktop\Facul\2 semestre\AED\Avaliativo\Classes-Genericas\Ex1\obj\Debug\net6.0\ref\Classes genéricas.dll
