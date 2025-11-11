@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex3\\Ex3.csproj": {}
+    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex3\\Ex3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex3\\Ex3.csproj": {
+    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex3\\Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex3\\Ex3.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex3\\Ex3.csproj",
         "projectName": "Ex3",
-        "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex3\\Ex3.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex3\\Ex3.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex3\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
