@@ -3,10 +3,7 @@ using System.Runtime.InteropServices;
 
 class Cidade
 {
-    public string nome
-    {
-        get; set;
-    }
+    public string nome { get; set; }
     public int lat { get; set; }
     public int lon { get; set; }
     public void AddCidade(Queue<Cidade> cidades) /* Adiciona cidades dentro da fila */
@@ -44,7 +41,7 @@ class Cidade
             {
                 dist = Math.Sqrt(Math.Pow(x.lat - ant.lat, 2) + Math.Pow(x.lon - ant.lon, 2));
                 ant = x; /* Para o próximo par */
-                totaldist += dist;
+             /*  */   totaldist += dist;
             }
             penultima = x;
         }
