@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex2\\Ex2.csproj": {}
+    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex2\\Ex2.csproj": {
+    "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex2\\Ex2.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes genéricas\\Ex2\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
