@@ -6,7 +6,7 @@
 }
 class Program
 {
-    static void AdicionarCarro(Queue<Carro> x)
+    static void AdicionarCarro(Queue<Carro> x) /* Código símples para adicionar os carros à fila, que informa se a fila já está completa com os 8 carros */
     {
         if (x.Count < 8)
         {
@@ -24,14 +24,14 @@ class Program
     }
     static void RemoverCarro(Queue<Carro> x)
     {
-        Carro auxCarro = new Carro(); // carro a ser removido
-        Queue<Carro> filaAux = new Queue<Carro>(); // fila auxiliar usada para preencher a fila original
-        bool carroRemovido = false;
+        Carro auxCarro = new Carro(); // Elemento que carrega as informações do carro a ser removido
+        Queue<Carro> filaAux = new Queue<Carro>(); // fila auxiliar que guarda os carros que não devem ser removidos antes do carro ser removido
+        Queue<Carro> filaAux2 = new Queue<Carro>();// fila auxiliar que guarda os carros que não devem ser removidos após do carro ser removido
+
+        bool carroRemovido = false; /* Variável que confirma que o carro foi removido */
 
         if (x.Count > 0)
         {
-            Carro xCarro = new Carro();
-
             System.Console.WriteLine("Insira o modelo do carro que deseja remover");
             auxCarro.modelo = Console.ReadLine();
             System.Console.WriteLine("Insira a cor do carro que deseja remover");
@@ -40,28 +40,35 @@ class Program
             int fim = x.Count;
             for (int i = 0; i < fim; i++)
             {
-                Carro carroAtual = x.Dequeue();
+                Carro carroAtual = x.Dequeue(); /* carroAtual recebe o carro que foi removido da fila */
                 if (!carroRemovido && carroAtual.cor == auxCarro.cor && carroAtual.modelo == auxCarro.modelo)
                 {
-                    carroRemovido = true;
+                    carroRemovido = true; /* aqui mostra que o carro foi removído */
+                }
+                else if (carroRemovido)
+                {
+                    filaAux2.Enqueue(carroAtual); /* Se o carro for removido, guardará nessa fila que montará a nova ordem, já que os carros da frente devem voltar para o início */
                 }
                 else
                 {
-                    filaAux.Enqueue(carroAtual);
+                    filaAux.Enqueue(carroAtual); /* Se o carro não é o correto a ser removido e o carro correto não foi removído, é adicionado na fila auxiliar */
                 }
             }
+            /* Fila original vazia, e fila auxiliar com os carros sem o que deve ser removido */
 
-            while (filaAux.Count > 0)
+            while (filaAux.Count > 0) /* Preenchimento da fila original com os carros corretos */
             {
-                x.Enqueue(filaAux.Dequeue());
+                if (filaAux2.Count > 0)
+                    x.Enqueue(filaAux2.Dequeue());
+                else
+                    x.Enqueue(filaAux.Dequeue());
             }
-            if(carroRemovido==false)
-            System.Console.WriteLine("\nCarro não foi encontrado para ser removido!\n");
+            if (carroRemovido == false)
+                System.Console.WriteLine("\nCarro não foi encontrado para ser removido!\n");
         }
         else
         {
-            System.Console.WriteLine("\nNão é possível adicionar nenhum carro, remova algum\n");
-            return;
+            System.Console.WriteLine("\nNão há carros para remover\n");
         }
     }
     static void ListarCarros(Queue<Carro> x)
@@ -73,7 +80,7 @@ class Program
         else
         {
             int i = 1;
-                System.Console.WriteLine("\n----------- Lista de carros no estacionamento -----------");
+            System.Console.WriteLine("\n----------- Lista de carros no estacionamento -----------");
             foreach (Carro c in x)
             {
                 System.Console.WriteLine($"Carro do modelo {c.modelo}, cor {c.cor}, posição:{i}");
