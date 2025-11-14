@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joaok\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaok\\OneDrive\\Área de Trabalho\\PUC\\2 Semestre\\AED\\Avaliativos\\Classes-Genericas\\Ex5\\Ex5.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex5\\Ex5.csproj",
       "projectName": "Ex5",
-      "projectPath": "C:\\Users\\joaok\\OneDrive\\Área de Trabalho\\PUC\\2 Semestre\\AED\\Avaliativos\\Classes-Genericas\\Ex5\\Ex5.csproj",
-      "packagesPath": "C:\\Users\\joaok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaok\\OneDrive\\Área de Trabalho\\PUC\\2 Semestre\\AED\\Avaliativos\\Classes-Genericas\\Ex5\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex5\\Ex5.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\Classes-Genericas\\Ex5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joaok\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
